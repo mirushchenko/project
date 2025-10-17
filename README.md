@@ -22,13 +22,13 @@
 
 ## Portfolio Projects
 
-### [Real-time Chat Application Analysis] (https://github.com/mirushchenko/webapp-chat/tree/main/system-analysis)
+### [Real-time Chat Application Analysis](https://github.com/mirushchenko/webapp-chat/tree/main/system-analysis)
 - Comprehensive message flow sequence diagrams
 - User authentication and authorization requirements
 - WebSocket integration specifications
 - Performance and scalability analysis
 
-### [Financial Management System] (https://github.com/mirushchenko/finance-app-watch)
+### [Financial Management System](https://github.com/mirushchenko/finance-app-watch)
 - End-to-end business process modeling
 - Data validation and compliance requirements
 - Stakeholder needs analysis with prioritization
